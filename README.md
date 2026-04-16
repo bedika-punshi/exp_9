@@ -1,3 +1,5 @@
+<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/f956aa69-54ee-487f-b6e7-13298b43261e" />
+<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/a2a41aee-33c5-4054-9e46-3d213d88297d" />
 
 # exp_9
 # 🔐 JWT Authentication Demo (Spring Boot)
@@ -127,7 +129,8 @@ DemoJwtApplication.java
 
 ---
 <img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/c98f308a-731f-4881-bda5-417151d2ff01" />
-<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/1bcbca88-b2f0-4f78-8ce4-3515fef08756" />
+<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 18 09 PM" src="https://github.com/user-attachments/assets/23ad6b1e-785f-4b43-b6ad-3c8a8a68a25c" />
+
 
 
 
