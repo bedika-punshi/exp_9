@@ -1,5 +1,6 @@
+<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 18 09 PM" src="https://github.com/user-attachments/assets/41dd6d28-16b3-4938-a739-8ed332504bcb" />
 <img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/f956aa69-54ee-487f-b6e7-13298b43261e" />
-<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/a2a41aee-33c5-4054-9e46-3d213d88297d" />
+
 
 # exp_9
 # 🔐 JWT Authentication Demo (Spring Boot)
