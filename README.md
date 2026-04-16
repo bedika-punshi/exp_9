@@ -128,18 +128,9 @@ DemoJwtApplication.java
 * Token validation middleware
 
 ---
-<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 17 48 PM" src="https://github.com/user-attachments/assets/c98f308a-731f-4881-bda5-417151d2ff01" />
-<img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 18 09 PM" src="https://github.com/user-attachments/assets/23ad6b1e-785f-4b43-b6ad-3c8a8a68a25c" />
 
 
 
 
-## 👩‍💻 Author
 
-**Bedika Punshi**
 
----
-
-## ⭐ If you like this project
-
-Give it a star on GitHub ⭐
