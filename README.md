@@ -43,7 +43,7 @@ This project is a simple **JWT (JSON Web Token) Authentication System** built us
 ## ⚙️ Configuration
 
 Database configuration is defined in:
-📄 `application.properties` <img width="1512" height="982" alt="Screenshot 2026-04-16 at 2 18 09 PM" src="https://github.com/user-attachments/assets/55549a07-1753-427f-9773-8321e6d16cb4" />
+📄 `application.properties
 
 
 ## 🔑 API Endpoints
